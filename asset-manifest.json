@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Team-work64/static/css/main.17654e45.css",
+    "main.js": "/Team-work64/static/js/main.c64275ab.js",
+    "index.html": "/Team-work64/index.html",
+    "main.17654e45.css.map": "/Team-work64/static/css/main.17654e45.css.map",
+    "main.c64275ab.js.map": "/Team-work64/static/js/main.c64275ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17654e45.css",
+    "static/js/main.c64275ab.js"
+  ]
+}
